@@ -5,7 +5,13 @@
 @testColor: #4d88ff;
 @fontcolor: #ff4d7d;
 
-.slideSize (){
+.h1FontSize(){
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+.slideSize () {
   float: left;
   margin: 0 auto;
   buttom: 0;
@@ -13,32 +19,25 @@
   height: 820;
   background-color: @white;
 }
-
 // Slider-01
-
-.slider-01 {.slideSize}
-
-.pink-line{
+.slider-01 {
+  .slideSize
+}
+.pink-line {
   float: left;
   width: 5px;
   height: 820px;
   background-color: @pink;
-
 }
-.slider-content{
+.slider-content {
   float: left;
   width: 50%;
   height: 820px;
   background-color: @grey;
 }
-.content{
-margin: 0 auto;
-float: left;
-margin: 100px;
-width: 500px;
-background: @testColor;
-
-
-
-
+.content {
+  .h1FontSize;
+  margin: 0 auto;
+  float: left;
+  background: @testColor;
 }
