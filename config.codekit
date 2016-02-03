@@ -31,6 +31,50 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/img\/allianse_branch.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82883,
+		"inputAbbreviatedPath": "\/img\/allianse_branch.jpg",
+		"outputAbbreviatedPath": "\/img\/allianse_branch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/menu.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1623,
+		"inputAbbreviatedPath": "\/img\/menu.jpg",
+		"outputAbbreviatedPath": "\/img\/menu.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/nav.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2960,
+		"inputAbbreviatedPath": "\/img\/nav.jpg",
+		"outputAbbreviatedPath": "\/img\/nav.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slide_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 428479,
+		"inputAbbreviatedPath": "\/img\/slide_01.jpg",
+		"outputAbbreviatedPath": "\/img\/slide_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
