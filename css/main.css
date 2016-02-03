@@ -1,0 +1,27 @@
+.slider-01 {
+  float: left;
+  margin: 0 auto;
+  buttom: 0;
+  width: 100%;
+  height: 820;
+  background-color: #ffffff;
+}
+.pink-line {
+  float: left;
+  width: 5px;
+  height: 820px;
+  background-color: #ff4d7d;
+}
+.slider-content {
+  float: left;
+  width: 50%;
+  height: 820px;
+  background-color: #eaebed;
+}
+.content {
+  margin: 0 auto;
+  float: left;
+  margin: 100px;
+  width: 500px;
+  background: #4d88ff;
+}
