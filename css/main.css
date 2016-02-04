@@ -13,18 +13,18 @@ body {
 .main-header {
   float: left;
   position: absolute;
-  height: 70px;
+  height: 75px;
   width: 100%;
   z-index: 1;
-  padding: 6px;
   display: block;
 }
 .logo {
+  padding-top: 6px;
   float: left;
 }
 .main-menu {
   float: right;
-  padding-right: 15px;
+  padding: 6px;
 }
 .pink-line {
   float: left;
@@ -165,6 +165,7 @@ body {
   height: 820px;
   float: left;
   background-color: #ff4d7d;
+  text-align: center;
   max-width: 90px;
 }
 .bullits img:nth-child(1) {
@@ -175,6 +176,22 @@ body {
 }
 .bullits img:nth-child(3) {
   padding-top: 100px;
+}
+.slider-03 {
+  float: left;
+  margin: 0 auto;
+  buttom: 0;
+  width: 100%;
+  height: 820px;
+  min-width: 800px;
+  background-color: #ffffff;
+  background-image: url(https://photos-6.dropbox.com/t/2/AAAKQrXxSGmU0zCsDoQABOJzz1LmLKuB0O9aWq5YothubQ/12/35620648/jpeg/32x32/1/_/1/2/slide_01.jpg/EI-piBsYrRIgBygH/xZI8rQGuwgHDh-08EbNNPJhvq-svNnYEsTgv6WfmkSo?size=1280x960&size_mode=3);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no_repeat;
+  background-position: 50%, 50%;
 }
 .arrow {
   animation-name: ding;
